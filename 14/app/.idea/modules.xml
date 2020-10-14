@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/452270651/Duolingo2.iml" filepath="$PROJECT_DIR$/.idea/modules/452270651/Duolingo2.iml" group="Duolingo2" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Duolingo2/app" />
-    </modules>
-  </component>
-</project>
